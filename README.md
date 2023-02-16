@@ -2,7 +2,7 @@
 ## В данной презентации я расскажу коротко о себе ;)
 
 <img src="https://sun9-41.userapi.com/impg/hziyC8yk-51r5CMZC8t5n6ggn8glS5b5fOT5DQ/CaxbPM5qr6k.jpg?size=1080x1080&quality=96&sign=59ed2426ee6a70c0a9bf8d8577c8956e&type=album
-" alt="drawing" style="width:200px;float: left;margin-right: 10px; margin-top: 10px"/>
+" alt="drawing" style="width:200px;float: left;margin-right: 10px;"/>
 
 
 Мне 37 лет, я работаю в IT компании местного интернет провайдера. В основном занимаюсь программированием на **Perl** и **PHP** вкупе с **JavaScript**'ом. По мере необходимости пользуюсь **Python**'ом, а теперь ещё решил пополнить свои познания в **Java** в области **Android** разработки ([Привет Нетологии!](http://netology.ru)).
